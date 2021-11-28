@@ -86,3 +86,19 @@ hr{
     margin: 10px;
     height: 8%;
 }
+
+  
+  @media screen and (max-width: 600px) {
+    .mountain-img{
+        width: 300px;
+    }
+    .bottom_cloud{
+       display: none;
+    }
+  }
+  
+  @media screen and (max-width: 400px) {
+    .mountain-img{
+        width: 200px;
+    }
+  }
