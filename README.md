@@ -1,6 +1,11 @@
 - 👋 Hi, I’m HimAYouN
+
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
+
+
 - 👀 I’m interested in Data Science...
-- 🌱 I’m currently learning Web Development... 💻
+- 🌱 I’m currently learning DSA ... 💻
+- 📚 Also i am in touch with frontend Web dev. 🎉
 - <!---💞️ I’m looking to collaborate on---> 
 - 📫 How to reach me ... [TWITTER](https://twitter.com/himayou_n?s=09)🔍
 - Visit my [Portfolio](https://himayoun.github.io/portfolio/)
