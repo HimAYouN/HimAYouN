@@ -23,12 +23,12 @@ if you are watching this as downloded file, main file of this will be found on..
 
 - 👯 I’m looking to collaborate on **any frontend project.**
 
-- 👨‍💻 All of my projects are available at [https://himayoun.github.io/portfolio/](https://himayoun.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://himayoun.github.io/portfolio/)
 
-- 📫 How to reach me **https://twitter.com/himayou_n?s=09**
+- 📫 How to reach me [TWITTER](https://twitter.com/himayou_n?s=09)🔍
 
 - ⚡ Fun fact **I don't drink much coffee.**
-
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/himayou_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himayou_n" height="30" width="40" /></a>
