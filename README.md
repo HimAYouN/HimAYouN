@@ -19,15 +19,15 @@ if you are watching this as downloded file, main file of this will be found on..
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himayoun&label=Profile%20views&color=0e75b6&style=flat" alt="himayoun" /> </p>
 
-<p align="left"> <a href="https://twitter.com/himayou_n" target="blank"><img src="https://img.shields.io/twitter/follow/himayou_n?logo=twitter&style=for-the-badge" alt="himayou_n" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/himayoun7931/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Followers-9cf" alt="himayou_n" /></a> </p>
 
 - 👯 I’m looking to collaborate on **any frontend project.**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://himayoun.github.io/portfolio/)
 
-- 📫 How to reach me [TWITTER](https://twitter.com/himayou_n?s=09)🔍
+- 📫 How to reach me [LINKEDIN](https://www.linkedin.com/in/himayoun7931/)🔍
 
-- ⚡ Fun fact **I don't drink much coffee.**
+- ⚡ **There is Somthing on your back .**
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
