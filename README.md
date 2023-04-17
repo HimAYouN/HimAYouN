@@ -19,7 +19,7 @@ if you are watching this as downloded file, main file of this will be found on..
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himayoun&label=Profile%20views&color=0e75b6&style=flat" alt="himayoun" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/himayoun7931/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Followers-9cf" alt="himayou_n" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/himayoun7931/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Follow-9cf" alt="himayou_n" /></a> </p>
 
 - 👯 I’m looking to collaborate on **any frontend project.**
 
