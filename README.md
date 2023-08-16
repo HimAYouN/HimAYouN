@@ -40,7 +40,13 @@ if you are watching this as downloded file, main file of this will be found on..
 <img align="left" alt=".py" width="40" src="https://himayoun.github.io/portfolio/Images/Skills/python.png"/>
 <img align="left" alt=".html" width="40" src="https://himayoun.github.io/portfolio/Images/Skills/html.png"/>
 <img align="left" alt=".css" width="40" src="https://himayoun.github.io/portfolio/Images/Skills/css.png"/>
-<img align="left" alt=".mysql" width="40" src="https://himayoun.github.io/portfolio/Images/Skills/js.png"/>
+<br>
+<br>
+<br>
+<img align="left" alt=".mysql" width="40" src="https://himayoun.github.io/portfolio/Images/Skills/mysql.png"/>
+<img align="left" alt=".figma" width="40" src="https://himayoun.github.io/portfolio/Images/Skills/figma.png"/>
+<img align="left" alt=".git" width="40" color="white" src="https://himayoun.github.io/portfolio/Images/Skills/git.png"/>
+<img align="left" alt=".github" width="40" src="https://himayoun.github.io/portfolio/Images/Skills/github.png"/>
 
 
 </p>
