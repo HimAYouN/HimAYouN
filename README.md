@@ -34,11 +34,13 @@ if you are watching this as downloded file, main file of this will be found on..
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
-- Java  
-- Javascript
-- React
-- HTML  
-- CSS
-- MySQL
+<img align="left" alt=".js" width="40" src="https://himayoun.github.io/portfolio/Images/Skills/js.png"/>
+<img align="left" alt=".java" width="40" src="https://himayoun.github.io/portfolio/Images/Skills/java.png"/>
+<img align="left" alt=".react" width="40" src="https://himayoun.github.io/portfolio/Images/Skills/react.png"/>
+<img align="left" alt=".py" width="40" src="https://himayoun.github.io/portfolio/Images/Skills/python.png"/>
+<img align="left" alt=".html" width="40" src="https://himayoun.github.io/portfolio/Images/Skills/html.png"/>
+<img align="left" alt=".css" width="40" src="https://himayoun.github.io/portfolio/Images/Skills/css.png"/>
+<img align="left" alt=".mysql" width="40" src="https://himayoun.github.io/portfolio/Images/Skills/js.png"/>
+
 
 </p>
