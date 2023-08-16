@@ -33,12 +33,12 @@ if you are watching this as downloded file, main file of this will be found on..
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <img src="" alt="css3" width="40" height="40"/>
-  <img src="" alt="css3" width="40" height="40"/>
-  <img src="" alt="css3" width="40" height="40"/>
-  <img src="" alt="css3" width="40" height="40"/>
-  <img src="" alt="css3" width="40" height="40"/>
-  <img src="" alt="css3" width="40" height="40"/>
+  <img src="" alt="Javascript" width="40" height="40"/>
+  <img src="" alt="HTML5" width="40" height="40"/>
+  <img src="" alt="CSS3" width="40" height="40"/>
+  <img src="" alt="React" width="40" height="40"/>
+  <img src="" alt="MySQL" width="40" height="40"/>
+  <img src="" alt="Java" width="40" height="40"/>
   
 </p>
 
