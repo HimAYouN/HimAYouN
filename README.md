@@ -15,19 +15,43 @@ You can click the Preview link to take a look at your changes.
 if you are watching this as downloded file, main file of this will be found on... https://github.com/HimAYouN ...
 --->
 <h1 align="center">Hi 👋, I'm Himayoun</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">**Programmer | Web Developer | Graphic Designer**</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himayoun&label=Profile%20views&color=0e75b6&style=flat" alt="himayoun" /> </p>
 
 <p align="left"> <a href="https://www.linkedin.com/in/himayoun7931/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Follow-9cf" alt="himayou_n" /></a> </p>
 
-- 👯 I’m looking to collaborate on **any frontend project.**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://himayoun.github.io/portfolio/)
 
-- 📫 How to reach me [LINKEDIN](https://www.linkedin.com/in/himayoun7931/)🔍
+## Summary
+BTech 2026 Graduate with a passion for programming, web development, and graphic design. Currently focused on Data Structures and Algorithms in Java. Aspiring Machine Learning enthusiast.
 
-- ⚡ **There is Somthing on your back .**
+## Skills
+- Web Development: JavaScript, HTML, CSS, React
+- Graphic Design: Figma, Canva, Adobe Suite
+- Problem Solving: 250+ problems on GFG, 100+ problems on LeetCode
+- Programming: Python, Java
+- Version Control: Git, GitHub
+
+## Projects
+- [Countdown Timer (JavaScript)](https://himayoun.github.io/30DaysOfJs/week2/moreOnSameTopics/countDownTimer/index.html)
+- [To-Do List (JavaScript)](https://himayoun.github.io/30DaysOfJs/week2/moreOnSameTopics/ToDolist/toDoList.html)
+- [Rock-Paper-Scissors Game (JavaScript)](https://himayoun.github.io/30DaysOfJs/week3/Rock,Paper,Scissors/index.html)
+- [Digital Clock & Quote Generator (JavaScript)](https://himayoun.github.io/30DaysOfJs/week3/digital_clock/index.html)
+- [Image Slider (JavaScript)](https://himayoun.github.io/30DaysOfJs/week4/image_Slider/index.html)
+- [30 Days of JS Projects (JavaScript)](https://himayoun.github.io/30DaysOfJs/)
+
+## Education
+- BTech, [BIS College Moga], [2022] - [2026]
+
+## Interests
+- Exploring Machine Learning and AI
+- Continuous learning and improvement
+
+## Connect with Me
+- LinkedIn: [linkedin.com/in/himayoun7931](https://www.linkedin.com/in/himayoun7931/)
+- GitHub: [github.com/HimAYouN](https://github.com/HimAYouN)
+
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 
 
