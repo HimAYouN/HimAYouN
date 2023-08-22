@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 if you are watching this as downloded file, main file of this will be found on... https://github.com/HimAYouN ...
 --->
 <h1 align="center">Hi 👋, I'm Himayoun</h1>
-<h3 align="center">**Programmer | Web Developer | Graphic Designer**</h3>
+<h3 align="center">Programmer | Web Developer | Graphic Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himayoun&label=Profile%20views&color=0e75b6&style=flat" alt="himayoun" /> </p>
 
