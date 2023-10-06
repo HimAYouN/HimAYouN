@@ -34,12 +34,14 @@ BTech 2026 Graduate with a passion for programming, web development, and graphic
 - Version Control: Git, GitHub
 
 ## Projects
+- [Anime Search Page (JavaScript)](https://himayoun.github.io/30DaysOfJs/LearningJSAfter30Days/animePage/index.html)
+- [Weather App (JavaScript)](https://himayoun.github.io/30DaysOfJs/week3/WeatherApp/index.html)
 - [Countdown Timer (JavaScript)](https://himayoun.github.io/30DaysOfJs/week2/moreOnSameTopics/countDownTimer/index.html)
+- [30 Days of JS Projects (JavaScript)](https://himayoun.github.io/30DaysOfJs/)
 - [To-Do List (JavaScript)](https://himayoun.github.io/30DaysOfJs/week2/moreOnSameTopics/ToDolist/toDoList.html)
 - [Rock-Paper-Scissors Game (JavaScript)](https://himayoun.github.io/30DaysOfJs/week3/Rock,Paper,Scissors/index.html)
 - [Digital Clock & Quote Generator (JavaScript)](https://himayoun.github.io/30DaysOfJs/week3/digital_clock/index.html)
 - [Image Slider (JavaScript)](https://himayoun.github.io/30DaysOfJs/week4/image_Slider/index.html)
-- [30 Days of JS Projects (JavaScript)](https://himayoun.github.io/30DaysOfJs/)
 
 ## Education
 - BTech, [BIS College Moga], [2022] - [2026]
@@ -49,6 +51,7 @@ BTech 2026 Graduate with a passion for programming, web development, and graphic
 - Continuous learning and improvement
 
 ## Connect with Me
+- Portfolio: [Himayoun/portfolio](https://himayoun.github.io/portfolio/)
 - LinkedIn: [linkedin.com/in/himayoun7931](https://www.linkedin.com/in/himayoun7931/)
 - GitHub: [github.com/HimAYouN](https://github.com/HimAYouN)
 
