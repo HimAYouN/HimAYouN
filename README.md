@@ -15,7 +15,7 @@ BTech 2026 Graduate with a passion for programming, web development, and graphic
 - Web Development: JavaScript, HTML, CSS, React
 - Graphic Design: Figma, Canva, Adobe Suite
 - Problem Solving: 250+ problems on GFG, 100+ problems on LeetCode
-- Programming: Python, Java
+- Programming: Python, Java, C, C++
 - Version Control: Git, GitHub
 
 ## Projects
