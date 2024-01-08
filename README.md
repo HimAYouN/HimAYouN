@@ -16,7 +16,12 @@ BTech 2026 Graduate with a passion for programming, web development, and graphic
 - Version Control: Git, GitHub
 
 
+
+
+
 ## Projects
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"/>
+
 - [Anime Search Page (JavaScript)](https://himayoun.github.io/30DaysOfJs/LearningJSAfter30Days/animePage/index.html)
 - [Weather App (JavaScript)](https://himayoun.github.io/30DaysOfJs/week3/WeatherApp/index.html)
 - [Countdown Timer (JavaScript)](https://himayoun.github.io/30DaysOfJs/week2/moreOnSameTopics/countDownTimer/index.html)
@@ -25,6 +30,8 @@ BTech 2026 Graduate with a passion for programming, web development, and graphic
 - [Rock-Paper-Scissors Game (JavaScript)](https://himayoun.github.io/30DaysOfJs/week3/Rock,Paper,Scissors/index.html)
 - [Digital Clock & Quote Generator (JavaScript)](https://himayoun.github.io/30DaysOfJs/week3/digital_clock/index.html)
 - [Image Slider (JavaScript)](https://himayoun.github.io/30DaysOfJs/week4/image_Slider/index.html)
+
+
 
 ## Education
 - BTech, [BIS College Moga], [2022] - [2026]
@@ -63,7 +70,6 @@ BTech 2026 Graduate with a passion for programming, web development, and graphic
 
 </p>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"/>
 <br/>
 <br/>
 
