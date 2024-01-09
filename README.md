@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Himayoun</h1>
+<h1 align="center">Hey There, I'm Himayoun</h1>
 <h3 align="center">Programmer | Web Developer | Graphic Designer</h3>
 
 
 ## Summary
-BTech 2026 Graduate with a passion for programming, web development, and graphic design. Currently focused on Data Structures and Algorithms in Java. Aspiring Machine Learning enthusiast.
+BTech 2026 Graduate with a passion for programming, web development, and graphic design. Currently focused on React JS and MySql.
 
 
 
@@ -36,10 +36,9 @@ BTech 2026 Graduate with a passion for programming, web development, and graphic
 ## Education
 - BTech, [BIS College Moga], [2022] - [2026]
 
-## Interests
-- Exploring Machine Learning and AI
+<!--## Interests
 - Continuous learning and improvement
-
+-->
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 
