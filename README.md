@@ -22,7 +22,7 @@ BTech 2026 Graduate with a passion for programming, web development, and graphic
 ## Projects
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"/>
 
-- [Docs (React)](https://docs-sheriyans.netlify.app/)
+- [Docs (React)](https://docs-sheryians.netlify.app/)
 - [Anime Search Page (JavaScript)](https://himayoun.github.io/30DaysOfJs/LearningJSAfter30Days/animePage/index.html)
 - [Weather App (JavaScript)](https://himayoun.github.io/30DaysOfJs/week3/WeatherApp/index.html)
 - [Countdown Timer (JavaScript)](https://himayoun.github.io/30DaysOfJs/week2/moreOnSameTopics/countDownTimer/index.html)
