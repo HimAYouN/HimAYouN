@@ -1,6 +1,7 @@
 
-<h1 align="center">Hey There, I'm Himayoun</h1>
-<h3 align="center">Programmer | Web Developer | Graphic Designer</h3>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=1DF076&background=FF00E000&center=true&repeat=false&random=true&width=435&lines=Hey+There%2C+I'm+Himayoun)
+<br/>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=16&pause=1000&color=17CC87&background=FF00E000&center=true&repeat=false&random=true&width=440&lines=Programmer+%7C+Web+Developer+%7C+Graphic+Designer)
 
 
 ## Summary
