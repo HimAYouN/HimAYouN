@@ -23,15 +23,13 @@ BTech 2026 Graduate with a passion for programming, web development, and graphic
 ## Projects
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif"/>
 
+- [Ochi Clone (In-Progress) (React)](https://ochi-ui-clone.netlify.app)
+- [userAthenication (in-Progress) (React)](https://staticapp01.netlify.app)
 - [Docs (React)](https://docs-sheryians.netlify.app/)
 - [Anime Search Page (JavaScript)](https://himayoun.github.io/30DaysOfJs/LearningJSAfter30Days/animePage/index.html)
 - [Weather App (JavaScript)](https://himayoun.github.io/30DaysOfJs/week3/WeatherApp/index.html)
 - [Countdown Timer (JavaScript)](https://himayoun.github.io/30DaysOfJs/week2/moreOnSameTopics/countDownTimer/index.html)
 - [30 Days of JS Projects (JavaScript)](https://himayoun.github.io/30DaysOfJs/)
-- [To-Do List (JavaScript)](https://himayoun.github.io/30DaysOfJs/week2/moreOnSameTopics/ToDolist/toDoList.html)
-- [Rock-Paper-Scissors Game (JavaScript)](https://himayoun.github.io/30DaysOfJs/week3/Rock,Paper,Scissors/index.html)
-- [Digital Clock & Quote Generator (JavaScript)](https://himayoun.github.io/30DaysOfJs/week3/digital_clock/index.html)
-- [Image Slider (JavaScript)](https://himayoun.github.io/30DaysOfJs/week4/image_Slider/index.html)
 
 
 
